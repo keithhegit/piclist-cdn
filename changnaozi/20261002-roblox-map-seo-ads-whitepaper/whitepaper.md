@@ -14,11 +14,11 @@
 
 ## 2. 三站对照表
 
-| 站 | 域名 / 路径 | Ads | Codes 默认 |
-|----|-------------|-----|------------|
-| Anime Dice | [animedice.top/anime-dice-guides](https://animedice.top/anime-dice-guides) | Native Banner + 300×250（bauval） | unverified；无核验不进 Working |
-| Loot To Forge | [loot2forge.top/loot-to-forge-guides](https://loot2forge.top/loot-to-forge-guides) | 同上 | 同上 |
-| Fish It | [robloxfish.top/fish-it-guides](https://robloxfish.top/fish-it-guides) | 同上 | 同上 |
+| 站 | Apex | CF Pages 项目 | Ads | Codes |
+|----|------|---------------|-----|-------|
+| Anime Dice | https://animedice.top | `anime-dice-guides` | Native Banner + 300×250（bauval） | unverified；无核验不进 Working |
+| Loot To Forge | https://loot2forge.top | `loot-to-forge-guides` | 同上 | 同上 |
+| Fish It | https://robloxfish.top | `fish-it-guides` | 同上 | 同上 |
 
 三站共用：Adsterra only（无 pop）、双闸（Researchy 事实 + UI 视觉）、远程控制负责 Upload/编码、长脑子了仅 GSC + Notion。
 
