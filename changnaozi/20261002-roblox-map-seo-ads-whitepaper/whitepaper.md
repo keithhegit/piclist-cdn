@@ -20,6 +20,8 @@
 | Loot To Forge | https://loot2forge.top | `loot-to-forge-guides` | 同上 | 同上 |
 | Fish It | https://robloxfish.top | `fish-it-guides` | 同上 | 同上 |
 
+> 注：`anime-dice-guides` / `loot-to-forge-guides` / `fish-it-guides` 是 **Cloudflare Pages 项目名**，不是站点 URL 路径；对外入口为各站 Apex。
+
 三站共用：Adsterra only（无 pop）、双闸（Researchy 事实 + UI 视觉）、远程控制负责 Upload/编码、长脑子了仅 GSC + Notion。
 
 ---
